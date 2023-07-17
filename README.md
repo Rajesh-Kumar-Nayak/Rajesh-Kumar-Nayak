@@ -1,6 +1,6 @@
 ![logo]()
 <h1 align="center">Hi, I'm Rajesh Kumar Nayak</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate Automation Tester from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
@@ -8,7 +8,9 @@
 
 -  I’m currently working on **Festo India Private Limited**
 
--  I’m currently learning **Spring, React**
+-  I’m currently learning **Web Development Technologies like JavaScript,html,css,Angular,MERN Stack, and also solving DSA Problems with Java and Spring, React**
+
+-  Future Goals: Learn more technologies - Learning to become a full-stack developer.
 
 -  How to reach me **rajesh.nayak.89519@gmail.com**
 
