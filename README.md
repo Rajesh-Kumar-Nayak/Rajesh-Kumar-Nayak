@@ -8,9 +8,9 @@
 
 -  I’m currently working on **Festo India Private Limited**
 
--  I’m currently learning **Web Development Technologies like JavaScript,html,css,Angular,MERN Stack, and also solving DSA Problems with Java and Spring, React**
+-  I’m currently learning **Web Development Technologies like JavaScript,html,css,Angular,MERN Stack, and also solving DSA Problems with Java and learning framework like Spring, React**
 
--  Future Goals: Learn more technologies - Learning to become a full-stack developer.
+-  Future Goals: Become a full-stack developer.
 
 -  How to reach me **rajesh.nayak.89519@gmail.com**
 
