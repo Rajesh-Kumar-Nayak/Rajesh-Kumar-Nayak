@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Rajesh Kumar Nayak</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/d38048c04473ce7fbcdde5bb8eb4a9722b7cb630de5ab485967633759c21b534/68747470733a2f2f7777772e756e696167656e74732e636f6d2f6173736574732f696d616765732f736b7970652d73657373696f6e2e676966">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh-kumar-nayak&label=Profile%20views&color=0e75b6&style=flat" alt="rajesh-kumar-nayak" /> </p>
 
