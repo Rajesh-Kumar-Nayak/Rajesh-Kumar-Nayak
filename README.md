@@ -1,4 +1,4 @@
-![logo](https://github.com/Rajesh-Kumar-Nayak/Rajesh-Kumar-Nayak/blob/main/Background1.jpg)
+![logo](https://github.com/Rajesh-Kumar-Nayak/Rajesh-Kumar-Nayak/blob/main/Github%20Banner.jpg)
 <h1 align="center">Hi, I'm Rajesh Kumar Nayak</h1>
 <h3 align="center">A passionate Automation Tester from India</h3>
 
