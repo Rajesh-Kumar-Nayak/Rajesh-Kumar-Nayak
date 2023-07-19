@@ -1,5 +1,5 @@
 ![logo](https://github.com/Rajesh-Kumar-Nayak/Rajesh-Kumar-Nayak/blob/main/Background2.png)
-<h1 align="center">Hey there , Nishan here 👋</h1>
+<h1 align="center">Hey there , Rajesh here 👋</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rajesh-kumar-nayak-rajesh/" target="_blank">
