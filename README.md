@@ -4,8 +4,10 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/rajesh-kumar-nayak-rajesh/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-    <a href="https://www.instagram.com/nayaks_kid/" target="_blank">
+  <a href="https://www.instagram.com/nayaks_kid/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=f8f7e3&logoColor=Red&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+ <a href="https://www.facebook.com/RajeshNayak0.5/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=6c5dd6&logoColor=feffff&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />  
 </div>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
