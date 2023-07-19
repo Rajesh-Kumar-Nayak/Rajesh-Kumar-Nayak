@@ -1,6 +1,5 @@
 ![logo](https://github.com/Rajesh-Kumar-Nayak/Rajesh-Kumar-Nayak/blob/main/Background2.png)
-<h1 align="center">Hi, I'm Rajesh Kumar Nayak</h1>
-<h3 align="center">A passionate Automation Tester from India</h3>
+<h1 align="center">Hey there , Nishan here 👋</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rajesh-kumar-nayak-rajesh/" target="_blank">
