@@ -22,7 +22,7 @@
 
 -  I’m currently working on **Festo India Private Limited**
 
--  I’m currently learning **Web Development Technologies like JavaScript,html,css,Angular,MERN Stack, and also solving DSA Problems with Java and learning framework like Spring, React**
+-  I’m currently learning **Web Development Technologies like JavaScript,html,css,Angular and also solving DSA Problems with Java and learning framework like Spring, React**
 
 -  Future Goals: Become a full-stack developer.
 
