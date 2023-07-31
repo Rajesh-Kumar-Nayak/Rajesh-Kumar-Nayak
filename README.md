@@ -1,4 +1,4 @@
-![logo](https://github.com/Rajesh-Kumar-Nayak/Rajesh-Kumar-Nayak/blob/main/Background2.png)
+
 <h1 align="center">Hey there , Rajesh here 👋</h1>
 
 <div align="center">
@@ -20,15 +20,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh-kumar-nayak&label=Profile%20views&color=0e75b6&style=flat" alt="rajesh-kumar-nayak" /> </p>
 
--  🌱 I’m currently learning Spring Boot**
+-  🌱 I’m currently learning Spring Boot
 
--  👯 I’m looking to collaborate on Open Source Projects**
+-  👯 I’m looking to collaborate on Open Source Projects
 
 -  💬 Ask me about DSA
 
--  📫 How to reach me **rajesh.nayak.89519@gmail.com**
+-  📫 How to reach me **rajesh.nayak.89519@gmail.com
 
--  ⚡ Fun fact There is Nothing Interesting Happening**
+-  ⚡ Fun fact There is Nothing Interesting Happening
 
 
 <h3 align="left">Coding Gym:</h3>
