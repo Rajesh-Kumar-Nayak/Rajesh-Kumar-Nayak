@@ -8,8 +8,8 @@
   <a href="https://www.instagram.com/nayaks_kid/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=f8f7e3&logoColor=Red&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
     </a>
- <a href="https://www.facebook.com/RajeshNayak0.5/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=6c5dd6&logoColor=feffff&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />  
+// <a href="https://www.facebook.com/RajeshNayak0.5/" target="_blank">
+ //   <img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=6c5dd6&logoColor=feffff&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />  
    </a>
  <a href="https://calendly.com/rajesh-nayak-89519/30min?month=2023-07" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
