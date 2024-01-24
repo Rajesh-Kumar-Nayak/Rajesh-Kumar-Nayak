@@ -1,4 +1,4 @@
-
+  
 <h1 align="center">Hey there , Rajesh here 👋</h1>
 
 <div align="center">
@@ -11,7 +11,10 @@
 <!-- <a href="https://www.facebook.com/RajeshNayak0.5/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=6c5dd6&logoColor=feffff&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />  
    </a> -->
- <a href="https://calendly.com/rajesh-nayak-89519/30min?month=2023-07" target="_blank">
+ <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=rajesh.nayak.89519@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://calendly.com/rajesh-nayak-89519/30min?month=2023-07" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
