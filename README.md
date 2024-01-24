@@ -5,6 +5,9 @@
   <a href="https://www.linkedin.com/in/rajesh-kumar-nayak-rajesh/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
     </a>
+   <a href="https://twitter.com/rajesh_nay25214" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=010203&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
   <a href="https://www.instagram.com/nayaks_kid/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=f8f7e3&logoColor=Red&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
     </a>
