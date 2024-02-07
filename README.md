@@ -5,6 +5,7 @@
 <h3 align='center'>
   A passionate Java Backend Developer from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
 </h3>
+<h3 align="center">🔰 Let's Connect 🠗</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rajesh-kumar-nayak-rajesh/" target="_blank">
@@ -41,7 +42,7 @@
 
 📫 How to reach me **rajesh.nayak.89519@gmail.com**
 
-💗 Love to talk about **Research and Innovation!**
+💗 Love to talk about **Problem solving!**
 
 📄 Know about my experiences at my **[LinkedIn Profile](https://www.linkedin.com/in/rajesh17/)**
 
