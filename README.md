@@ -54,7 +54,6 @@
 
 <h3 align="left">‍🎃 Coding Profil:</h3>
 <p>
-[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.linkedin.com/in/rajesh17/)
 <a href="https://www.leetcode.com/rajeshnayak1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajeshnayak1997" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rajesh_nayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajesh_nayak" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rajesh_nayak_891" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajesh_nayak" height="30" width="40" /></a>
