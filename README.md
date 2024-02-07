@@ -5,7 +5,7 @@
 <h3 align='center'>
   A passionate Java Backend Developer from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
 </h3>
-<h3 align="center">🔰 Let's Connect 🠗</h3>
+<h5 align="center">🔰 Let's Connect 🠗</h5>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rajesh-kumar-nayak-rajesh/" target="_blank">
