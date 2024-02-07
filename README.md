@@ -5,7 +5,7 @@
 <h3 align='center'>
   A passionate Java Backend Developer from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
 </h3>
-<h5 align="center">🔰 Let's Connect 🠗</h5>
+<h5 align="center">Let's Connect 🠗</h5>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rajesh-kumar-nayak-rajesh/" target="_blank">
@@ -52,9 +52,9 @@
 - Solved 100+ DSA Problems at **[LeetCode](https://leetcode.com/RajeshNayak1997/)**
 - 4🌟 in Problem solving at **[HackerRank](https://www.hackerrank.com/profile/rajesh_nayak_891)**
 
-<h3 align="left">Coding Platform:</h3>
+<h3 align="left">‍🎃 Coding Profil:</h3>
 <p>
-
+[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.linkedin.com/in/rajesh17/)
 <a href="https://www.leetcode.com/rajeshnayak1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajeshnayak1997" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rajesh_nayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajesh_nayak" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rajesh_nayak_891" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajesh_nayak" height="30" width="40" /></a>
