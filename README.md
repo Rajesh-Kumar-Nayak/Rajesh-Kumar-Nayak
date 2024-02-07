@@ -43,13 +43,15 @@
 
 💗 Love to talk about **Research and Innovation!**
 
+📄 Know about my experiences at my **[LinkedIn Profile](https://www.linkedin.com/in/rajesh17/)**
+
 
 ## 💪 Passionate about Competitive Coding
 
 - Solved 100+ DSA Problems at **[LeetCode](https://leetcode.com/RajeshNayak1997/)**
 - 4🌟 in Problem solving at **[HackerRank](https://www.hackerrank.com/profile/rajesh_nayak_891)**
 
-<h3 align="left">Coding Gym:</h3>
+<h3 align="left">Coding Platform:</h3>
 <p>
 
 <a href="https://www.leetcode.com/rajeshnayak1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajeshnayak1997" height="30" width="40" /></a>
