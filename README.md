@@ -39,10 +39,15 @@
 
 💬 Ask me about **DSA**
 
-📫 How to reach me **rajesh.nayak.89519@gmail.com
+📫 How to reach me **rajesh.nayak.89519@gmail.com**
 
 💗 Love to talk about **Research and Innovation!**
 
+
+## 💪 Passionate about Competitive Coding
+
+- Solved 100+ DSA Problems at **[LeetCode](https://leetcode.com/RajeshNayak1997/)**
+- 4🌟 in Problem solving at **[HackerRank](https://www.hackerrank.com/profile/rajesh_nayak_891)**
 
 <h3 align="left">Coding Gym:</h3>
 <p>
