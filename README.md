@@ -49,8 +49,8 @@
 
 ## 💪 Passionate about Competitive Coding
 
-- Solved 100+ DSA Problems at **[LeetCode](https://leetcode.com/RajeshNayak1997/)**
-- Solved 100+ DSA Problems at **[GeekforGeeks](https://auth.geeksforgeeks.org/user/rajesh_nayak)**
+- Solved 200+ DSA Problems at **[LeetCode](https://leetcode.com/RajeshNayak1997/)**
+- Solved 250+ DSA Problems at **[GeekforGeeks](https://auth.geeksforgeeks.org/user/rajesh_nayak)**
 - 4🌟 in Problem solving at **[HackerRank](https://www.hackerrank.com/profile/rajesh_nayak_891)**
 
 <h3 align="left">‍🎃 Coding Profile:</h3>
